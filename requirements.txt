@@ -4,3 +4,8 @@ color
 
 
 Dark mode
+
+//uncertein
+
+Payment Method
+Receive Payment
