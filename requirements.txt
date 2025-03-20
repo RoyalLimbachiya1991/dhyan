@@ -1,3 +1,6 @@
 Specical Character
 emoji
 color
+
+
+Dark mode
